@@ -1,5 +1,5 @@
-# Spectral-distance-measures
-Various spectral distance measures are incorporated with standard performance measures as SDEN, SDPW and SDPR
+# Spectral-distance-functions
+Various spectral distance functions are incorporated with standard performance measures as SDEN, SDPW and SDPR
 
 Dataset: Indian Pines (Hyperspectral)
 
